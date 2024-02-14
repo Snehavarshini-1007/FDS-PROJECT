@@ -8,7 +8,7 @@ This project is aimed at developing a machine learning model for classifying onl
 
 - **Text Preprocessing:** Clean and preprocess the text data to extract relevant features.Includes Tokenization , Stemming and lemmatization of data.
 - **Machine Learning Algorithms:** Implement and compare different machine learning algorithms for classification.
-- 
+  
 ## Technologies Used
 
 - Python
@@ -22,4 +22,4 @@ This project has been made possible through the collaborative efforts and contri
 SNEHAVARSHINI S - [@Snehavarshini-1007] Email : snehavarshinis.21aid@kongu.edu
 BHUVANESHWARI C - [@bhuvaneshwariC] Email : bhuvaneshwaric.21aid@kongu.edu
 SOUNDHARYA M - [@soundharya123] Email : soundharyam.21aid@kongu.edu
-HARINI M - [@harinimanikandan] Email : harinimanikandan11@gmail.com
+HARINI M - [@harinimanikandan] Email : harinim.21aid@kongu.edu
